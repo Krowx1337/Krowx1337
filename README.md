@@ -18,11 +18,6 @@
 
 ---
 
-## 🛠️ Tools & Design  
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=6A0DAD)  ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=6A0DAD)  ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=6A0DAD)  
-
----
-
 ## ⚡ Specialties  
 🎯 **Backend Development** → Node.js, Express.js, WebSockets  
 🎯 **Frontend & UI/UX** → React, Next.js, Tailwind CSS, ShadCN  
@@ -30,6 +25,10 @@
 🎯 **Real-time Systems** → WebSockets, Socket.io  
 🎯 **Mobile Development** *(Learning)* → React Native, Flutter  
 🎯 **3D & Animation** *(Exploring)* → Blender  
+
+---
+## 🛠️ Tools & Design  
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=6A0DAD)  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=6A0DAD)  ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=6A0DAD)  ![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=6A0DAD)  
 
 ---
 
