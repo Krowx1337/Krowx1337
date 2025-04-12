@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Krowx  
-### Fullstack Developer • Tech Enthusiast  
+### Hobby Developer • Tech Enthusiast  
 
 ---
 
